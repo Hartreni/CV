@@ -10,7 +10,7 @@ h1 {
         line-height: 20px;
 }
 h2 {
-        color: #2F5A78;
+        color: lightskyblue;
         font-size: 20px;
 }
 body {
@@ -25,33 +25,32 @@ header {
 }
 header {
         text-align: center;
-        background-color: #eeeeee;
+        background-color: lightskyblue;
         padding-top: 2px;
         padding-bottom: 2px;
 }
 #copyright {
         text-align: center;
 }
-section, footer{
-        padding: 2px 10px;
-}
+
+
 ul {
-        margin: 0px;
+        margin: 10px;
 }
 h2 {
-        color: #2F5A78;
+        color: lightskyblue;
         font-size: 20px;
         padding-bottom: 2px;
-        border-bottom: 1px solid #2F5A78;
+        border-bottom: 1px solid lightskyblue;
 }
 footer {
         text-align: center;
-        background-color: #eeeeee;
-        padding-top: 2px;
-        padding-bottom: 2px;
+        background-color: lightskyblue;
+        height: 130px;
+       
 }
 li b{
-        color: #2F5A78;
+        color: lightskyblue;
 }
 footer a {
         color: e99f4b;
@@ -68,27 +67,27 @@ td,th {
         padding: 5px;
 }
 th {
-        background-color: #2F5A78;
+        background-color: lightskyblue;
         color: #FFFFFF;
 }
 input[type='text'],input[type='email']{
-        border:1px solid #2f5A78;
+        border:1px solid lightskyblue;
         width: 150px;
         padding: 5px;
         margin-bottom: 5px;
 }
 textarea{
-        border:1px solid #2f5a78;
+        border:1px solid lightskyblue;
         width: 203px;
         padding: 5px;
         margin-bottom: 5px;
 }
 label{
         font-weight: bold;
-        color: #2f5a78;
+        color: lightskyblue;
 }
 input[type='submit']{
-        background-color: #2f5a78;
+        background-color: lightskyblue;
         border:none;
         border-radius:7px;
         padding: 7px 15px;
@@ -103,7 +102,7 @@ body {
 }
 header {
         text-align: center;
-        background-color: #eeeeee;
+        background-color: lightskyblue;
         padding-top: 2px;
         padding-bottom: 2px;
         position: fixed;
@@ -114,3 +113,9 @@ header {
 .summary img{
  float: right; 
 }
+body {
+        background-color: rgb(44, 44, 44);
+      }
+      body {
+        color: rgb(250, 243, 243);
+      }
